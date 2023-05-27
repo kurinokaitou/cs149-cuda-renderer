@@ -1,2 +1,3 @@
 *.o
 cudaSaxpy
+cudaScan
